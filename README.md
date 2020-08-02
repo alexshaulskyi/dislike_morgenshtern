@@ -1,0 +1,1 @@
+This script logs on youtube using 3rd party service in order to avoid logging issue into google services. Requests videos related to morgenshtern which were posted in last hour and dislikes 10 of them, unless they were previously disliked.
